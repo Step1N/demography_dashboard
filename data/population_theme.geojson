@@ -1,0 +1,1375 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "7.89",
+				"population_theme_name": "P0004CX",
+				"population_theme_description": "Population % Under 5 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "8.21",
+				"population_theme_name": "P0509CX",
+				"population_theme_description": "Population % 5 To 9 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "4.74",
+				"population_theme_name": "P1014CX",
+				"population_theme_description": "Population % 10 To 14 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "11.68",
+				"population_theme_name": "P1519CX",
+				"population_theme_description": "Population % 15 To 19 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "17.58",
+				"population_theme_name": "P2024CX",
+				"population_theme_description": "Population % 20 To 24 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "14.42",
+				"population_theme_name": "P2534CX",
+				"population_theme_description": "Population % 25 To 34 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "13.79",
+				"population_theme_name": "P3544CX",
+				"population_theme_description": "Population % 35 To 44 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "8.53",
+				"population_theme_name": "P4554CX",
+				"population_theme_description": "Population % 45 To 54 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "2.63",
+				"population_theme_name": "P5559CX",
+				"population_theme_description": "Population % 55 To 59 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "2.21",
+				"population_theme_name": "P6064CX",
+				"population_theme_description": "Population % 60 To 64 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "5.47",
+				"population_theme_name": "P6574CX",
+				"population_theme_description": "Population % 65 To 74 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "2.74",
+				"population_theme_name": "P7584CX",
+				"population_theme_description": "Population % 75 To 84 Years",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0.11",
+				"population_theme_name": "P85PCX",
+				"population_theme_description": "Population % 85 Years And Over",
+				"name": "AGEPCX",
+				"alias": "% Age",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "48.21",
+				"population_theme_name": "MALECX",
+				"population_theme_description": "Male Population %",
+				"name": "GENDERPCX",
+				"alias": "% Gender",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "51.79",
+				"population_theme_name": "FEMALECX",
+				"population_theme_description": "Female Population %",
+				"name": "GENDERPCX",
+				"alias": "% Gender",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "681",
+				"population_theme_name": "LS02ENGLCY",
+				"population_theme_description": "Speak Only English",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "186",
+				"population_theme_name": "LS03SPANCY",
+				"population_theme_description": "Spanish Or Spanish Creole",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "2",
+				"population_theme_name": "LS04FRENCY",
+				"population_theme_description": "French (Incl. Patois, Cajun)",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS05FRCRCY",
+				"population_theme_description": "French Creole",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS06ITALCY",
+				"population_theme_description": "Italian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "LS07PORTCY",
+				"population_theme_description": "Portuguese Or Portuguese Creole",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "LS08GERMCY",
+				"population_theme_description": "German",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS09YIDDCY",
+				"population_theme_description": "Yiddish",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS10OWGECY",
+				"population_theme_description": "Other West Germanic Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS11SCANCY",
+				"population_theme_description": "Scandinavian Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS12GREECY",
+				"population_theme_description": "Greek",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "LS13RUSSCY",
+				"population_theme_description": "Russian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS14POLICY",
+				"population_theme_description": "Polish",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS15SERBCY",
+				"population_theme_description": "Serbo-Croatian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS16OSLACY",
+				"population_theme_description": "Other Slavic Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS17ARMECY",
+				"population_theme_description": "Armenian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS18PERSCY",
+				"population_theme_description": "Persian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS19GUJACY",
+				"population_theme_description": "Guajarati",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS20HINDCY",
+				"population_theme_description": "Hindi",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS21URDUCY",
+				"population_theme_description": "Urdu",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS22OINDCY",
+				"population_theme_description": "Other Indic Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS23OIEUCY",
+				"population_theme_description": "Other Indo-European Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "LS24CHINCY",
+				"population_theme_description": "Chinese",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "LS25JAPACY",
+				"population_theme_description": "Japanese",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS26KORECY",
+				"population_theme_description": "Korean",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS27MOCACY",
+				"population_theme_description": "Mon-Khmer, Cambodian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS28HMONCY",
+				"population_theme_description": "Hmong (Miao)",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS29THAICY",
+				"population_theme_description": "Thai",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS30LOATCY",
+				"population_theme_description": "Laotian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS31VIETCY",
+				"population_theme_description": "Vietnamese",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "LS32OASNCY",
+				"population_theme_description": "Other Asian Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS33TAGACY",
+				"population_theme_description": "Tagalog",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS34OPISCY",
+				"population_theme_description": "Other Pacific Island Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS35NAVACY",
+				"population_theme_description": "Navajo",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS36ONNACY",
+				"population_theme_description": "Other Native North American Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS37HUNGCY",
+				"population_theme_description": "Hungarian",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS38ARABCY",
+				"population_theme_description": "Arabic",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS39HEBRCY",
+				"population_theme_description": "Hebrew",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS40AFRICY",
+				"population_theme_description": "African Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "LS41OTUNCY",
+				"population_theme_description": "Other And Unspecified Languages",
+				"name": "LANGPCY",
+				"alias": "Language Spoken At Home",
+				"baseVariable": "LS01P05PCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "43",
+				"population_theme_name": "AN01AMERCY",
+				"population_theme_description": "American",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN02ARABCY",
+				"population_theme_description": "Arab",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "4",
+				"population_theme_name": "AN03BRITCY",
+				"population_theme_description": "British",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN04CZECCY",
+				"population_theme_description": "Czech",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN05DANICY",
+				"population_theme_description": "Danish",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "3",
+				"population_theme_name": "AN06DUTCCY",
+				"population_theme_description": "Dutch",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "95",
+				"population_theme_name": "AN07ENGLCY",
+				"population_theme_description": "English",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "9",
+				"population_theme_name": "AN08EUROCY",
+				"population_theme_description": "European",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "14",
+				"population_theme_name": "AN09FRENCY",
+				"population_theme_description": "French (Except Basque)",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "AN10FRCNCY",
+				"population_theme_description": "French Canadian",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "59",
+				"population_theme_name": "AN11GERMCY",
+				"population_theme_description": "German",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "AN12GREECY",
+				"population_theme_description": "Greek",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN13HUNGCY",
+				"population_theme_description": "Hungarian",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "74",
+				"population_theme_name": "AN14IRISCY",
+				"population_theme_description": "Irish",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "5",
+				"population_theme_name": "AN15ITALCY",
+				"population_theme_description": "Italian",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN16LITHCY",
+				"population_theme_description": "Lithuanian",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "AN17NORWCY",
+				"population_theme_description": "Norwegian",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "7",
+				"population_theme_name": "AN18POLICY",
+				"population_theme_description": "Polish",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN19PORTCY",
+				"population_theme_description": "Portuguese",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "9",
+				"population_theme_name": "AN20RUSSCY",
+				"population_theme_description": "Russian",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "7",
+				"population_theme_name": "AN21SCIRCY",
+				"population_theme_description": "Scotch-Irish",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "19",
+				"population_theme_name": "AN22SCOTCY",
+				"population_theme_description": "Scottish",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN23SLOVCY",
+				"population_theme_description": "Slovak",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "1",
+				"population_theme_name": "AN24SAFRCY",
+				"population_theme_description": "Sub-Saharan African",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN25SWEDCY",
+				"population_theme_description": "Swedish",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN26SWISCY",
+				"population_theme_description": "Swiss",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN27UKRACY",
+				"population_theme_description": "Ukrainian",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN28WELSCY",
+				"population_theme_description": "Welsh",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "0",
+				"population_theme_name": "AN29WINDCY",
+				"population_theme_description": "West Indian (Except Hispanic Groups)",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "452",
+				"population_theme_name": "AN30OTHGCY",
+				"population_theme_description": "Other Groups",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.9571, 35.0118]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"population_theme_value": "146",
+				"population_theme_name": "AN31UCNRCY",
+				"population_theme_description": "Unclassified Or Not Reported",
+				"name": "ANCSPCY",
+				"alias": "Ancestry",
+				"baseVariable": "POPCY",
+				"year": "2018 Estimates"
+			}
+		}
+	]
+}
