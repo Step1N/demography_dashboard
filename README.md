@@ -1,4 +1,4 @@
-# demography_dashboard
+# Demography Dashboard
 
 
 Simple Demogrphy Dashboard using Leaflet and charts
