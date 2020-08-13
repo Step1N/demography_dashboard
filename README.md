@@ -1,5 +1,6 @@
 # Demography Dashboard
 
+![Screenshot](demography.png)
 
 Simple Demogrphy Dashboard using Leaflet and charts
 
