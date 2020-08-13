@@ -1,6 +1,6 @@
 # Demography Dashboard
 
-![Screenshot](demography.png)__
+![Screenshot](demography.png) <br />
 ![Screenshot](employment_matrix.png)
 
 Simple Demogrphy Dashboard using Leaflet and charts
