@@ -1,6 +1,7 @@
 # Demography Dashboard
 
 ![Screenshot](demography.png)
+![Screenshot](employment_matrix.png)
 
 Simple Demogrphy Dashboard using Leaflet and charts
 
@@ -13,3 +14,4 @@ Simple Demogrphy Dashboard using Leaflet and charts
 7. Advanced charting via C3.js, the D3-based reusable chart library
 
 
+User can see different matrix in charts after click on particular location.
