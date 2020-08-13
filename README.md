@@ -18,12 +18,9 @@ Simple Demogrphy Dashboard using Leaflet and charts
 
 User can see different matrix in charts after click on particular location.
 
+Step To run
+1. npm install 
 
-3. npm install 
+2. To run `http-server .`
 
-4. To run `http-server .`
-
-5. http://localhost:8080/
-
-User can see different matrix in charts after click on particular location.
-
+3. http://localhost:8080/
